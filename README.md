@@ -1,18 +1,31 @@
-# 💫 About Me:
-     Hi, I’m Shraddha 👋<br>🎓MTech in AI & Data Science | Aspiring Data Analyst<br>🔭 Im currently working on data analysis  projects<br>💬 Ask me about Python, SQL, and data analysis<br>📊 I’m looking for Data Analyst entry-level opportunities<br>📈 Skilled in Excel, SQL, Python, and Data Visualization (Power BI)<br>
+# Hi 👋 I'm Shraddha Verma
 
+🎓 MTech in Artificial Intelligence & Data Science  
+📊 Aspiring Data Analyst | Turning data into actionable insights  
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shraddhaverma40011@gmail.com) 
+🔍 Currently working on:
+• Real-world Data Analysis projects  
+• Interactive dashboards using Power BI  
+• SQL-based business problem solving  
 
-# 💻 Tech Stack:
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Shraddhav30&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Shraddhav30&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shraddhav30&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💡 Skilled in:
+• Excel (Advanced)  
+• SQL  
+• Python (Pandas, NumPy, Matplotlib)  
+• Data Cleaning & Visualization  
+• Basic Statistics  
+
+🎯 Actively seeking:
+Data Analyst Internship / Entry-Level Opportunities  
+
+📫 Reach me at:
+shraddhaverma40011@gmail.com  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Shraddhav30&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Tech Stack
+Python | SQL | Excel | Power BI | Pandas | NumPy | Matplotlib  
+
+---
+
+## 📊 GitHub Stats
